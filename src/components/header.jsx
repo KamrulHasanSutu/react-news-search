@@ -17,7 +17,7 @@ export default class Header extends Component {
         return (
             <div className='my-4'>
                 <h1 className="mb-4" style={{ fontWeight: '300' }}>
-                    Block Buster Hadlines
+                    Newspaper Haeading
                 </h1>
 {/* seaching bar */}
                 <input
